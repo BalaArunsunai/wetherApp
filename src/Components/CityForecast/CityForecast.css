@@ -1,0 +1,9 @@
+.forecastContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.forecastTable {
+  border-spacing: 50px;
+  background-color: blue;
+}
